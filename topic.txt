@@ -1,0 +1,3 @@
+education: teaching,learning,teachers, diplomas, academic, school, college,
+economics: business, management, money, markets,
+cars: vehicle, machine, engine, bus, driver, truck, impounded, road,
